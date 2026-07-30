@@ -1,0 +1,47 @@
+[
+  {
+    "name": "sample_submission.csv",
+    "size": 2430014,
+    "columns": [
+      "id",
+      "exam_score"
+    ]
+  },
+  {
+    "name": "test.csv",
+    "size": 18391069,
+    "columns": [
+      "id",
+      "age",
+      "gender",
+      "course",
+      "study_hours",
+      "class_attendance",
+      "internet_access",
+      "sleep_hours",
+      "sleep_quality",
+      "study_method",
+      "facility_rating",
+      "exam_difficulty"
+    ]
+  },
+  {
+    "name": "train.csv",
+    "size": 45984436,
+    "columns": [
+      "id",
+      "age",
+      "gender",
+      "course",
+      "study_hours",
+      "class_attendance",
+      "internet_access",
+      "sleep_hours",
+      "sleep_quality",
+      "study_method",
+      "facility_rating",
+      "exam_difficulty",
+      "exam_score"
+    ]
+  }
+]

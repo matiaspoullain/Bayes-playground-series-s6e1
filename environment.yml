@@ -1,0 +1,13 @@
+name: Bayes-playground-series-s6e1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+  - pip
+  - pip:
+      - kaggle
+      - pandas
+      - numpy
+      - scikit-learn
